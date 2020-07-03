@@ -1,0 +1,11 @@
+.about {
+    background-color: #e6ffff;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+@media only screen and (max-width: 600px) {
+    .about {
+        padding: 8px;
+    }
+}
